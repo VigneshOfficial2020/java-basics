@@ -24,7 +24,6 @@ public class Testing2 {
 //		a = 25;
 //		b = 25;
 //		c = 15;
-
 	}
 
 }
