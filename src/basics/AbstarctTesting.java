@@ -45,10 +45,6 @@ class B extends A {
 		System.out.println("B's implementation of m2.");
 	}
 
-	void m2() {
-
-	}
-
 }
 
 // Driver class

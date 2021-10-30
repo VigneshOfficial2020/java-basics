@@ -25,5 +25,7 @@ public class Testing2 {
 //		b = 25;
 //		c = 15;
 	}
+	
+	final void showFinal() {}
 
 }
